@@ -1,0 +1,5 @@
+name = "trello-web-helper"
+compatibility_date = "2026-09-26"
+
+[assets]
+directory = "./dist/trello-web-helper/browser"
